@@ -4,7 +4,7 @@
       "title" : "황금레시피",
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
-        { "title" : "오징어볶음", "id" : "33529918"  },
+        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
         { "title" : "갈치조림", "id" : "33528615"  },
         { "title" : "탕수육", "id" : "33527144"  },
         { "title" : "보쌈", "id" : "33525934"  },
