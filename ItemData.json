@@ -5,17 +5,17 @@
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
+        { "title" : "다음 만화", "id" : "0", "url" : "http://m.cartoon.media.daum.net"  },
+        { "title" : "네이트 만화", "id" : "0", "url" : "http://m.nate.com/webtoon.html"  },
+        { "title" : "올레마켓 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
+        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.webtoon.olleh.com"  },
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
-        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
-        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
-        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
-        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
-        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
+        { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  }
       ]
     },
     
