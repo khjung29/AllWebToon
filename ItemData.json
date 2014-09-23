@@ -29,12 +29,10 @@
       "title" : "찬찬찬 완전정복",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
-        { "title" : "꽂게무침", "id" : "489885"  },
-        { "title" : "동그랑땡", "id" : "478112"  },
-        { "title" : "메추리알장조림", "id" : "467047"  },
-        { "title" : "잡채", "id" : "467044"  },
-        { "title" : "황태구이", "id" : "467043"  },
-        { "title" : "오이소박이", "id" : "462601"  }
+         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
+        { "title" : "다음 만화", "id" : "1", "url" : "http://m.cartoon.media.daum.net", "img" : "w_naver"  },
+        { "title" : "네이트 만화", "id" : "2", "url" : "http://m.nate.com/webtoon.html", "img" : "w_naver"  },
+        { "title" : "올레마켓 웹툰", "id" : "3", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  }
       ]
     }
     
