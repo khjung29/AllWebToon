@@ -5,7 +5,7 @@
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
-        { "title" : "다음 만화", "id" : "1", "url" : "http://m.cartoon.media.daum.net", "img" : "w_naver"  },
+        { "title" : "다음 만화", "id" : "1", "url" : "http://m.cartoon.media.daum.net", "img" : "w_daum"  },
         { "title" : "네이트 만화", "id" : "2", "url" : "http://m.nate.com/webtoon.html", "img" : "w_naver"  },
         { "title" : "올레마켓 웹툰", "id" : "3", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
         { "title" : "T스토어 웹툰", "id" : "4", "url" : "http://m.tstore.co.kr/mobilepoc/main/tplayMain.omp?strPrePageNm=0c03002V", "img" : "w_naver"  },
