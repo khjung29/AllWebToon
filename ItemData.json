@@ -1,7 +1,7 @@
 { 
   "recipe" : [
     {
-      "title" : "황금레시피",
+      "title" : "웹툰",
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "네이버 웹툰", "id" : "0", "url" : "http://m.comic.naver.com/index.nhn"  },
