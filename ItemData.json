@@ -128,7 +128,12 @@
         { "title" : "한겨레", "id" : "n_36", "url" : "http://m.hani.co.kr", "img" : "w_naver", "type" : "n_a"   },
         { "title" : "한국경제", "id" : "n_37", "url" : "http://m.hankyung.com", "img" : "w_naver", "type" : "n_b"  },
         { "title" : "한국일보", "id" : "n_38", "url" : "http://www.hankookilbo.com", "img" : "w_naver", "type" : "n_a"   },
-        { "title" : "헤럴드경제", "id" : "n_39", "url" : "http://m.heraldbiz.com/list.jsp", "img" : "w_naver", "type" : "n_b"  }
+        { "title" : "헤럴드경제", "id" : "n_39", "url" : "http://m.heraldbiz.com/list.jsp", "img" : "w_naver", "type" : "n_b"  },
+        { "title" : "스포츠월드", "id" : "n_40", "url" : "http://m.sportsworldi.com", "img" : "w_naver", "type" : "n_c"   },
+        { "title" : "오센 (OSEN)", "id" : "n_41", "url" : "http://osenm.mt.co.kr", "img" : "w_naver", "type" : "n_c"   },
+        { "title" : "엑스포츠뉴스", "id" : "n_41", "url" : "http://m.xportsnews.com", "img" : "w_naver", "type" : "n_c"   },
+        { "title" : "MK 스포츠", "id" : "n_41", "url" : "http://sports.mk.co.kr", "img" : "w_naver", "type" : "n_c"   }
+        
         
       ]
     }
