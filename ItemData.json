@@ -80,7 +80,6 @@
         { "title" : "PGR21", "id" : "c_30", "url" : "http://pgr21.com", "img" : "w_naver"  },
         { "title" : "PlayXP", "id" : "c_31", "url" : "http://m.playxp.com", "img" : "w_naver"  },
         { "title" : "엽혹진 (엽기혹은진실)", "id" : "c_32", "url" : "http://m.cafe.daum.net/truepicture/_rec?boardType=M", "img" : "w_naver"  },
-        { "title" : "네이버 스포츠톡", "id" : "c_33", "url" : "http://m.sportstalk.naver.com", "img" : "w_naver"  },
         { "title" : "네이버 뿜&톡", "id" : "c_34", "url" : "http://m.bboom2.naver.com", "img" : "w_naver"  }
       ]
     }
