@@ -226,12 +226,10 @@
        { "title" : "더액션", "id" : "s_78", "url" : "http://www.theaction.co.kr", "img" : "w_naver", "type" : "s_b"  },
        { "title" : "원스타일", "id" : "s_79", "url" : "http://www.one-style.co.kr", "img" : "w_naver", "type" : "s_b"  },
        { "title" : "안녕멋쟁이", "id" : "s_80", "url" : "http://www.ciaobello.co.kr", "img" : "w_naver", "type" : "s_b"  },
-       { "title" : "어바웃핏", "id" : "s_81", "url" : "http://www.aboutfit.co.kr", "img" : "w_naver", "type" : "s_b"  },
-       { "title" : "올킬남", "id" : "s_82", "url" : "http://www.allkillnam.com", "img" : "w_naver", "type" : "s_b"  },
-       
-       { "title" : "쿠팡", "id" : "s_83", "url" : "http://m.gobest.co.kr/movie/coupong.htm", "img" : "w_naver", "type" : "s_c"  },
-       { "title" : "티켓몬스터", "id" : "s_84", "url" : "http://m.gobest.co.kr/movie/timon.htm", "img" : "w_naver", "type" : "s_c"  },
-       { "title" : "위메프", "id" : "s_85", "url" : "http://m.gobest.co.kr/movie/makeprice.htm", "img" : "w_naver", "type" : "s_b"  }
+      
+       { "title" : "쿠팡", "id" : "s_81", "url" : "http://m.gobest.co.kr/movie/coupong.htm", "img" : "w_naver", "type" : "s_c"  },
+       { "title" : "티켓몬스터", "id" : "s_82", "url" : "http://m.gobest.co.kr/movie/timon.htm", "img" : "w_naver", "type" : "s_c"  },
+       { "title" : "위메프", "id" : "s_83", "url" : "http://m.gobest.co.kr/movie/makeprice.htm", "img" : "w_naver", "type" : "s_b"  }
       
       
         
