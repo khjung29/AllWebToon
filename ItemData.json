@@ -47,7 +47,7 @@
       "type" : "1",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
-         { "title" : "네이트 판", "id" : "c_0", "url" : "http://m.pann.nate.com/talk/talk/index?snbId=todayTalk", "img" : "w_naver"  },
+         { "title" : "네이트 판", "id" : "c_0", "url" : "http://m.pann.nate.com/talk/talk/index?snbId=todayTalk", "img" : "w_nate"  },
         { "title" : "인벤", "id" : "c_1", "url" : "http://m.inven.co.kr", "img" : "w_naver"  },
         { "title" : "베스티즈", "id" : "c_2", "url" : "http://www.bestiz.net", "img" : "w_naver"  },
         { "title" : "오유 (오늘의 유머)", "id" : "c_3", "url" : "http://m.todayhumor.co.kr", "img" : "w_naver"  },
