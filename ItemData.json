@@ -4,7 +4,7 @@
       "title" : "웹툰",
       "type" : "0",
       "typecnt" : "0",
-      "typenames" : [],
+      "typenames" : [""],
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "네이버 웹툰", "id" : "w_0", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
@@ -48,7 +48,7 @@
       "title" : "커뮤니티",
       "type" : "1",
       "typecnt" : "0",
-      "typenames" : [],
+      "typenames" : [""],
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
          { "title" : "네이트 판", "id" : "c_0", "url" : "http://m.pann.nate.com/talk/talk/index?snbId=todayTalk", "img" : "w_nate"  },
