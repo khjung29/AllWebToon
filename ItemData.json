@@ -46,6 +46,7 @@
     {
       "title" : "커뮤니티",
       "type" : "1",
+      "typecnt" : "0",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
          { "title" : "네이트 판", "id" : "c_0", "url" : "http://m.pann.nate.com/talk/talk/index?snbId=todayTalk", "img" : "w_nate"  },
