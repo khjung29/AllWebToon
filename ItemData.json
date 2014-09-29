@@ -136,6 +136,36 @@
         
         
       ]
+    },
+    
+    {
+      "title" : "쇼핑",
+      "type" : "3",
+      "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
+      "item" : [
+        { "title" : "아우라제이", "id" : "s_0", "url" : "http://www.aura-j.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_1", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+        
+        
+      ]
     }
     
   ]
