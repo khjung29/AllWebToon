@@ -4,6 +4,7 @@
       "title" : "웹툰",
       "type" : "0",
       "typecnt" : "0",
+      "typenames" : {""},
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "네이버 웹툰", "id" : "w_0", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
@@ -47,6 +48,7 @@
       "title" : "커뮤니티",
       "type" : "1",
       "typecnt" : "0",
+      "typenames" : {""},
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
          { "title" : "네이트 판", "id" : "c_0", "url" : "http://m.pann.nate.com/talk/talk/index?snbId=todayTalk", "img" : "w_nate"  },
@@ -90,6 +92,7 @@
       "title" : "신문",
       "type" : "2",
       "typecnt" : "3",
+      "typenames" : {"일반","스포츠","경제"},
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
         { "title" : "경향신문", "id" : "n_0", "url" : "http://m.khan.co.kr", "img" : "w_naver", "type" : "n_a"  },
@@ -145,6 +148,7 @@
       "title" : "쇼핑",
       "type" : "3",
       "typecnt" : "3",
+      "typenames" : {"여성","남성","쇼셜"},
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
         { "title" : "아우라제이", "id" : "s_0", "url" : "http://www.aura-j.kr", "img" : "w_naver", "type" : "s_a"  },
