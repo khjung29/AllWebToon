@@ -183,15 +183,28 @@
        { "title" : "핑키걸", "id" : "s_37", "url" : "http://www.pinkygirl.co.kr", "img" : "w_naver", "type" : "s_a"  },
        { "title" : "업타운걸", "id" : "s_38", "url" : "http://www.uptowngirl.tv", "img" : "w_naver", "type" : "s_a"  },
        { "title" : "미미앤디디", "id" : "s_39", "url" : "http://www.mimididi.co.kr", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_40", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_41", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_42", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_43", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_44", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_45", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_46", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_47", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_48", "url" : "http", "img" : "w_naver", "type" : "s_a"  }
+       
+       { "title" : "소녀나라", "id" : "s_40", "url" : "http://m.sonyunara.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "10대월드", "id" : "s_41", "url" : "http://www.10world.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "엽스샵", "id" : "s_42", "url" : "http://www.yubsshop.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "러브러브미", "id" : "s_43", "url" : "http://www.loveloveme.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "걸즈비", "id" : "s_44", "url" : "http://www.girlz-b.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "고고싱", "id" : "s_45", "url" : "http://www.ggsing.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "커먼유니크", "id" : "s_46", "url" : "http://www.common-unique.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "미쳐라", "id" : "s_47", "url" : "http://www.michyeora.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_48", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_49", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_50", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_51", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_52", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       
+       { "title" : "아우라제이", "id" : "s_54", "url" : "http", "img" : "w_naver", "type" : "s_a"  }
         
         
       ]
