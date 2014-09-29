@@ -3,6 +3,7 @@
     {
       "title" : "웹툰",
       "type" : "0",
+      "typecnt" : "0",
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "네이버 웹툰", "id" : "w_0", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
@@ -87,6 +88,7 @@
     {
       "title" : "신문",
       "type" : "2",
+      "typecnt" : "3",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
         { "title" : "경향신문", "id" : "n_0", "url" : "http://m.khan.co.kr", "img" : "w_naver", "type" : "n_a"  },
@@ -141,6 +143,7 @@
     {
       "title" : "쇼핑",
       "type" : "3",
+      "typecnt" : "3",
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_cd=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
         { "title" : "아우라제이", "id" : "s_0", "url" : "http://www.aura-j.kr", "img" : "w_naver", "type" : "s_a"  },
@@ -229,7 +232,7 @@
       
        { "title" : "쿠팡", "id" : "s_81", "url" : "http://m.gobest.co.kr/movie/coupong.htm", "img" : "w_naver", "type" : "s_c"  },
        { "title" : "티켓몬스터", "id" : "s_82", "url" : "http://m.gobest.co.kr/movie/timon.htm", "img" : "w_naver", "type" : "s_c"  },
-       { "title" : "위메프", "id" : "s_83", "url" : "http://m.gobest.co.kr/movie/makeprice.htm", "img" : "w_naver", "type" : "s_b"  }
+       { "title" : "위메프", "id" : "s_83", "url" : "http://m.gobest.co.kr/movie/makeprice.htm", "img" : "w_naver", "type" : "s_c"  }
       
       
         
