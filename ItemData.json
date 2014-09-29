@@ -192,19 +192,26 @@
        { "title" : "고고싱", "id" : "s_45", "url" : "http://www.ggsing.com", "img" : "w_naver", "type" : "s_a"  },
        { "title" : "커먼유니크", "id" : "s_46", "url" : "http://www.common-unique.com", "img" : "w_naver", "type" : "s_a"  },
        { "title" : "미쳐라", "id" : "s_47", "url" : "http://www.michyeora.com", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_48", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_49", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_50", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_51", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_52", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
-       { "title" : "아우라제이", "id" : "s_53", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "코이", "id" : "s_48", "url" : "http://www.coii.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "센츠샵", "id" : "s_49", "url" : "http://www.centsshop.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "불량소녀", "id" : "s_50", "url" : "http://www.bullang.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "미니뽕", "id" : "s_51", "url" : "http://www.minibbong.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "올드미키", "id" : "s_52", "url" : "http://www.oldmickey.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "언니가간다", "id" : "s_53", "url" : "http://www.gosister.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "갱스샵", "id" : "s_54", "url" : "http://gaengs.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "언니옷", "id" : "s_55", "url" : "http://www.unnilook.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "후드야", "id" : "s_56", "url" : "http://www.hoodya.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "프롬걸즈", "id" : "s_57", "url" : "http://www.fromgirls.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "겐즈샵", "id" : "s_58", "url" : "http://www.genzshop.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "천시스터즈", "id" : "s_59", "url" : "http://www.1000sisters.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "시스샵", "id" : "s_60", "url" : "http://www.sisshop.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "푸앙세", "id" : "s_61", "url" : "http://www.puangse.com", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "피샵", "id" : "s_62", "url" : "http://www.pshop.tv", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "코코팝", "id" : "s_63", "url" : "http://www.cocopop.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "파라노말샵", "id" : "s_64", "url" : "http://www.paranormal.co.kr", "img" : "w_naver", "type" : "s_a"  },
+       { "title" : "아우라제이", "id" : "s_65", "url" : "http", "img" : "w_naver", "type" : "s_a"  },
        
-       { "title" : "아우라제이", "id" : "s_54", "url" : "http", "img" : "w_naver", "type" : "s_a"  }
+       { "title" : "아우라제이", "id" : "s_66", "url" : "http", "img" : "w_naver", "type" : "s_a"  }
         
         
       ]
