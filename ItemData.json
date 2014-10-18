@@ -251,8 +251,7 @@
        { "title" : "티켓몬스터", "id" : "s_93", "url" : "http://m.gobest.co.kr/movie/timon.htm", "img" : "w_naver", "type" : "s_3"  },
        { "title" : "위메프", "id" : "s_94", "url" : "http://m.gobest.co.kr/movie/makeprice.htm", "img" : "w_naver", "type" : "s_3"  }
       
-      { "title" : "이쁜걸", "id" : "s_95", "url" : "http://www.ippngirl.co.kr", "img" : "w_naver", "type" : "s_0"  },
-      { "title" : "모코블링", "id" : "s_96", "url" : "http://www.mocobling.com", "img" : "w_naver", "type" : "s_0"  }
+      
       
         
       ]
