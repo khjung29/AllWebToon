@@ -148,7 +148,7 @@
       "title" : "쇼핑",
       "type" : "3",
       "typecnt" : "4",
-      "typenames" : ["여성","남성","오픈마켓","쇼셜"],
+      "typenames" : ["여성","남성","오픈마켓","소셜"],
       "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_2d=2ts_tong_info03&seq=%s&encyn=y",
       "item" : [
         { "title" : "아우라제이", "id" : "s_0", "url" : "http://www.aura-j.kr", "img" : "w_naver", "type" : "s_0"  },
