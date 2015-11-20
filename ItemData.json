@@ -33,7 +33,6 @@
         { "title" : "스포츠경향 만화", "id" : "w_24", "url" : "http://m.sports.khan.co.kr/cartoon_list.html?category=3", "img" : "w_naver"  },
         { "title" : "럭키툰", "id" : "w_25", "url" : "http://www.luckytoon.com/m2/", "img" : "w_naver"  },
         { "title" : "인벤 카툰 갤러리", "id" : "w_26", "url" : "http://m.inven.co.kr/powerbbs/powerbbs.php?come_idx=2887&iskin=pg", "img" : "w_naver"  },
-        { "title" : "골닷컴 웹툰", "id" : "w_27", "url" : "http://www.goal.com/kr/news/1788/goalcom-웹툰/?ICID=SP_TN_7_1", "img" : "w_naver"  },
         { "title" : "투니랜드", "id" : "w_28", "url" : "http://www.tooniland.com/cartoon/getWebtoonMain.tl", "img" : "w_naver"  },
         { "title" : "루리웹 게시판", "id" : "w_29", "url" : "http://m.bbs2.ruliweb.daum.net/gaia/do/mobile/ruliweb/family/216/list?bbsId=G005&pageIndex=1&itemGroupId=27", "img" : "w_naver"  },
         { "title" : "다음웹툰 게시판", "id" : "w_30", "url" : "http://bbs.cartoon.media.daum.net/gaia/do/opinion/list?bbsId=B005", "img" : "w_naver"  },
